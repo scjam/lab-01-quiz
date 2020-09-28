@@ -1,1 +1,1 @@
-import './example.test.js';
+import './translate-to-a-yes.test.js';
