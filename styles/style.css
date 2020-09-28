@@ -88,11 +88,12 @@ header img {
 
 /* content {
     width: 80%;
-}
+} */
 
 p {
+    font-weight: bold;
     margin: var(--gutter);
-}*/
+}
   
 footer {
     position: fixed;
