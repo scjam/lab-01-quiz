@@ -1,3 +1,7 @@
+.italic {
+    font-style: italic;
+    display: inline;
+}
 
 body {
     --color1: #054a91ff;
@@ -12,7 +16,8 @@ body {
     --footer-height: 25px;
     
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: larger;
+    background-image: url("https://images.alphacoders.com/233/233571.jpg");
     background-color: var(--color2);
 }
 
@@ -27,6 +32,7 @@ main {
 
 section {
     background-color: var(--color5);
+    opacity: .85;
     width: 1000px;
     max-width: 100%;
     display: flex;
