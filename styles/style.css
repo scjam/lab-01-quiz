@@ -49,7 +49,7 @@ section {
 header {
     display: flex;
     justify-content: flex-end;
-    background-color: var(--color3);
+    background-color: var(--color2);
     height: var(--header-height);
     box-shadow: var(--shadow);
 }
