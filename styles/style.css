@@ -1,7 +1,3 @@
-.italic {
-    font-style: italic;
-    display: inline;
-}
 
 body {
     --color1: #054a91ff;
@@ -43,6 +39,11 @@ section {
     margin-top: var(--gutter);
     margin-bottom: var(--gutter);
     border: solid 2px var(--color1);
+}
+
+.italic {
+    font-style: italic;
+    display: inline;
 }
 
 header {

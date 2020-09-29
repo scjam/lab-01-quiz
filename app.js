@@ -1,11 +1,8 @@
-// import functions and grab DOM elements
 import { translateToAYes } from './test/translate-to-a-yes.test.js';
 
-// initialize state
 const button = document.getElementById('quiz-button');
 const results = document.getElementById('results');
 
-// set event listeners to update state and DOM
 button.addEventListener('click', () => {
     const userName = prompt('Welcome Aboard! What is your name?');
 
