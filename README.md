@@ -1,2 +1,2 @@
-# Titanic Quiz Page
-### Code and Copy by Sydney James
+## Titanic Quiz Page
+Code and Copy by Sydney James
