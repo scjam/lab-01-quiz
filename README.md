@@ -1,1 +1,2 @@
-# lab-01-quiz
+# Titanic Quiz Page
+### Code and Copy by Sydney James
