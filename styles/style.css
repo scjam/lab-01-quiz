@@ -10,7 +10,7 @@ body {
   --gutter: 20px;
   --footer-height: 25px;
 
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: larger;
   background-image: url("https://images.alphacoders.com/233/233571.jpg");
   background-color: var(--color2);
@@ -26,7 +26,7 @@ main {
 
 section {
   background-color: var(--color5);
-  opacity: 0.85;
+  opacity: 0.9;
   width: 1000px;
   max-width: 100%;
   display: flex;
@@ -45,8 +45,8 @@ section {
 }
 
 a {
-  text-decoration: none;
-  color: black;
+  text-decoration: underline;
+  color: darkblue;
 }
 
 header {
@@ -65,7 +65,7 @@ footer {
 }
 
 h2 {
-  margin-top: 10px;
+  margin-top: 20px;
   font-size: 2rem;
   font-weight: bold;
 }
@@ -76,6 +76,7 @@ h2 {
 
 .main-logo {
   border: 2px solid #054a91ff;
+  max-width: 50%;
 }
 
 header img {
